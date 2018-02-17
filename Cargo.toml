@@ -1,0 +1,6 @@
+[package]
+name = "bioctl"
+version = "0.1.0"
+authors = ["Timothy Klim <klimtimothy@gmail.com>"]
+
+[dependencies]
